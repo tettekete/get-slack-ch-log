@@ -1,0 +1,4 @@
+xoxp-XXXXXXXXXXX-XXXXXXXXXXXX-XXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# 1. get token from https://api.slack.com/custom-integrations/legacy-tokens
+# 2. rename this file to 'token'
